@@ -1,0 +1,74 @@
+_repo: The-House-of-Mirth_284
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wharton, Edith
+    aliases:
+    - Wharton, Edith Newbold Jones
+    - Olivieri, David
+    birthdate: 1862
+    deathdate: 1937
+    gutenberg_agent_id: '104'
+    url: http://www.gutenberg.org/2009/agents/104
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Edith_Wharton
+    - http://fr.wikipedia.org/wiki/Edith_Wharton
+description: "The House of Mirth (1905), a novel by Edith Wharton (1862–1937), tells\
+  \ the story of Lily Bart, a well-born but impoverished woman belonging to New York\
+  \ City’s high society around the turn of the last century. Wharton creates a portrait\
+  \ of a ravishing beauty who, though raised and educated to marry well both socially\
+  \ and economically, is reaching her 29th year, an age when her marital prospects\
+  \ are becoming ever more limited. The House of Mirth traces Lily’s slow two-year\
+  \ social descent from privilege to a tragically lonely existence on the margins\
+  \ of society. Wharton uses Lily as an attack on \"an irresponsible, grasping and\
+  \ morally corrupt upper class\"(309-310).\nBefore publication as a book on October\
+  \ 14, 1905, The House of Mirth was serialized in Scribner’s Magazine beginning in\
+  \ January 1905. It attracted a readership among housewives and businessmen alike.\
+  \ Charles Scribner wrote Edith in November 1905 that the novel was showing \"the\
+  \ most rapid sale of any book ever published by Scribner.\"(310) By the end of December\
+  \ sales had reached 140,000 copies. Edith's royalties were valued at more than half\
+  \ a million dollars in today's currency. The commercial and critical success of\
+  \ The House of Mirth solidified Wharton's reputation as a major novelist.\nBecause\
+  \ of the novel's commercial success some critics classified it as a genre novel.\
+  \ However, Edith's pastor, then rector of Trinity Church in Manhattan, wrote to\
+  \ tell her that her novel was \"a terrible but just arraignment of the social misconduct\
+  \ which begins in folly and ends in moral and spiritual death.\"(310) This moral\
+  \ purpose was not lost on the literary reviewers and critics of the time who tended\
+  \ to categorize it as both social satire and a novel of manners. Carol Singley in\
+  \ her Introduction to Edith Wharton's The House of Mirth: A Case Book states, \"\
+  [The House of Mirth] is a unique blend of romance, realism, and naturalism,[and\
+  \ thus] transcends the narrow classification of a novel of manners.\"(3) The House\
+  \ of Mirth was Edith Wharton's second published novel and was preceded by two novellas,\
+  \ The Touchstone (1900), Sanctuary (1903) and one full-length novel, The Valley\
+  \ of Decision (1902). Her subsequent important novels are Ethan Frome (1911), The\
+  \ Custom of the Country (1913), and The Age of Innocence (1920) for which she won\
+  \ the Pulitzer Prize in 1921. These works influenced a host of American authors\
+  \ for two generations. They include F. Scott Fitzgerald (The Great Gatsby),Sinclair\
+  \ Lewis (Main Street),John O'Hara (Appointment in Samarra), and Louis Auchincloss\
+  \ (The House of Five Talents).\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '1995-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '284'
+  wikidata: Q6474536
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcc 'PS'
+- GITenberg
+title: The House of Mirth
+url: http://www.gutenberg.org/ebooks/284
+wikipedia:
+- https://fr.wikipedia.org/wiki/Chez_les_heureux_du_monde
+- https://ar.wikipedia.org/wiki/%D8%A8%D9%8A%D8%AA_%D8%A7%D9%84%D9%81%D8%B1%D8%AD
+- https://pl.wikipedia.org/wiki/%C5%9Awiat_zabawy
+- https://en.wikipedia.org/wiki/The_House_of_Mirth
+- https://es.wikipedia.org/wiki/La_casa_de_la_alegr%C3%ADa
+- https://it.wikipedia.org/wiki/La_casa_della_gioia
